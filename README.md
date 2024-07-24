@@ -18,8 +18,6 @@
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28px" />
 
 ## **About me?**
-<a href="https://bumgu.com" target="_blank">My homepage<a/>  
 <a href="mailto:xorjsrla123@naver.com" target="_blank" >Contact me<a/>  
-
 <div/>
 
