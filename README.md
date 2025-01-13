@@ -20,7 +20,5 @@
 <img alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28px" />
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="28px" />
 
-## **About me?**
-<a href="mailto:xorjsrla123@naver.com" target="_blank" >Contact me<a/>  
 <div/>
 
